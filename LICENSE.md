@@ -13,14 +13,14 @@ and download the originals, along with the license restrictions.
 
 # Images  
 
-The following images are derived from the SVG file
+The following images are derived from
 [Cute Dancing Rabbits Silhouettes](https://www.shutterstock.com/image-vector/cute-dancing-rabbit-silhouette-black-shadow-124250995)
 available at
 [Shutterstock](https://www.shutterstock.com/):  
-  * images/kunikla/kunikla.svg
+  * images/kunikla/DancingRabbit2r.svg
   * images/kunikla/favicons/\*.\*  
   
-The following images are derived from the SVG file
+The following images are derived from
 [Forest Animal Faces](https://www.vecteezy.com/vector-art/90964-forest-animals-faces-vectors)
 available at
 [Vecteezy](https://www.vecteezy.com/):  
